@@ -1,8 +1,6 @@
 
 # FastScanCode
 
-[![FastScanCode](https://badge.juejin.im/entry/5a02d36e51882560cb23e5f6/likes.svg?style=flat-square)](https://juejin.im/entry/5a02d36e51882560cb23e5f6/detail)
-
 Very fast scan code project(support-qrcode-and-barcode)
 
 Can well support the following situations,barcodes folded ,the light is dark ,Distance is far and there still have a very impressive speed.
